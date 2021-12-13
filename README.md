@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-<!--
-**yspreen/yspreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello my name is Nick, or Yannick. I'm a computer science master by education. I've built some startups before and I'll build another one soon. Probably working on some side project right now.  
+Follow me on Twitter [@spreen_co](https://twitter.com/spreen_co)
 
+
+![yspreen's github stats](https://github-readme-stats.vercel.app/api?username=yspreen&show_icons=true&theme=buefy)
+
+[![Twitter followers](https://img.shields.io/twitter/follow/spreen_co?label=Followers&style=social)](https://twitter.com/spreen_co)
+[![GitHub followers](https://img.shields.io/github/followers/yspreen?label=Followers&style=social)](https://github.com/yspreen/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yspreen" alt="yspreen" /> </p>
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
