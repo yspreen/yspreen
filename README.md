@@ -4,7 +4,7 @@ Hello my name is Nick, or Yannick. I'm a computer science master by education. I
 Follow me on Twitter [@spreen_co](https://twitter.com/spreen_co)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yspreen&theme=catppuccin-latte&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yspreen&theme=catppuccin-latte&hide_border=true&border_radius=8&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![Twitter followers](https://img.shields.io/twitter/follow/spreen_co?label=Followers&style=social)](https://twitter.com/spreen_co)
 [![GitHub followers](https://img.shields.io/github/followers/yspreen?label=Followers&style=social)](https://github.com/yspreen/)
